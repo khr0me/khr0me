@@ -27,8 +27,8 @@
   <img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" />
 
   <!-- low level -->
-  <img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" />
   <img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" />
+  <img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" />
 
   <!-- frameworks -->
   <img height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" />
