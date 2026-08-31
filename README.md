@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=👽%20khr0me&fontFamily=Consolas&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=building%20interactive%20experiences%20with%20code,%20electronics%20%2B%20creativity&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=160&section=header&text=👽khr0me&fontFamily=Consolas&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=building%20interactive%20experiences%20with%20code,%20electronics%20%2B%20creativity&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack-0f172a?style=for-the-badge" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Env-Linux%20%7C%20Git%20%7C%20Bash-334155?style=for-the-badge" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=skills&fontFamily=Consolas&fontSize=28&fontColor=e2e8f0&fontAlign=5.2&fontAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=skills&fontFamily=Consolas&fontSize=28&fontColor=e2e8f0&fontAlign=5.2&fontAlignY=60" />
 
 ---
 
@@ -34,7 +34,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 </br></br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=activity&fontFamily=Consolas&fontSize=28&fontColor=e2e8f0&fontAlign=7.2&fontAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=activity&fontFamily=Consolas&fontSize=28&fontColor=e2e8f0&fontAlign=7.2&fontAlignY=60" />
 
 ---
 
