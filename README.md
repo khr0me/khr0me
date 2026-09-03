@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khr0me&theme=tokyonight&hide_border=true" height="160"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khr0me&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 </p>
