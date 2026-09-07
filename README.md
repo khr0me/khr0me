@@ -32,6 +32,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 </div>
 </br></br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=activity&fontFamily=Consolas&fontSize=28&fontColor=e2e8f0&fontAlign=7.2&fontAlignY=60" />
